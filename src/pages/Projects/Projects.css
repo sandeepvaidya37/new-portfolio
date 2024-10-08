@@ -262,11 +262,33 @@
 @media (max-width: 600px) {
   .projects-main {
     flex-direction: column;
-    margin-top: 420px;
+    margin-top: 10px;
+    height: auto;
+    margin-bottom: 40px;
   }
   .projects-main-card1,
   .projects-main-card2,
   .projects-main-card3 {
-    width: 400px;
+    width: 340px;
+    padding: 20px;
+    height: 570px;
+  }
+  .projects-main-card1-description, .projects-main-card2-description, .projects-main-card3-description{
+    width: 340px;
+    padding:10px;
+    margin-top: 10px;
+  }
+  .projects-main-card1-image, .projects-main-card2-image, .projects-main-card3-image{
+  width: 320px;
+  }
+  .projects-main-card1-title, .projects-main-card2-title, .projects-main-card3-title{
+    width: 340px;
+    padding: 0px 10px;
+
+  }
+  .projects-main-card1-tech, .projects-main-card2-tech, .projects-main-card3-tech{
+    width: 340px;
+    padding: 10px;
+    margin-top: 10px;
   }
 }

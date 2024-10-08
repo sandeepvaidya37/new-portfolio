@@ -128,7 +128,7 @@
   }
 }
 
-@media (max-width:560px) {
+@media (max-width:600px) {
   .skill-main-bottom{
     margin-top: 80px;
     flex-direction: column;
@@ -152,5 +152,11 @@
   }
   .skill-main-bottom-backend div:nth-child(2){
     margin-right: 50px;
+  }
+  .skill-main-bottom-tools h2,.skill-main-bottom-frontend h2, .skill-main-bottom-backend h2{
+    font-size: 19px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
   }
 }
