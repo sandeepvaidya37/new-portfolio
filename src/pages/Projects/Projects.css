@@ -235,9 +235,6 @@
   cursor: pointer;
   border: 0.1px solid black;
 }
-/* Original design remains unchanged above */
-
-/* Media Queries for Responsiveness */
 @media (max-width: 1200px) {
   .projects-main {
     flex-direction: column;
@@ -270,6 +267,6 @@
   .projects-main-card1,
   .projects-main-card2,
   .projects-main-card3 {
-    width: 90%;
+    width: 400px;
   }
 }

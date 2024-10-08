@@ -125,7 +125,7 @@ color: #D1884F;
   }
 
   .about-right .about-right-top {
-    width: 100%; 
+    width: 400px; 
     height: auto; 
     padding: 10px;
     margin-bottom: 20px;
@@ -145,7 +145,7 @@ color: #D1884F;
   }
 
   .about-right .about-right-bottom {
-    width: 100%; 
+    width: 400px; 
     height: auto; 
     padding: 10px;
   }

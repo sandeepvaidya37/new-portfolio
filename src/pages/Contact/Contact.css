@@ -58,3 +58,9 @@
   transition: 0.5s;
 background-color: #D1884F;
 }
+
+@media (max-width:600px) {
+  .contact-container2{
+    width: 370px;
+  }
+}

@@ -127,3 +127,30 @@
     margin-right: 50px;
   }
 }
+
+@media (max-width:560px) {
+  .skill-main-bottom{
+    margin-top: 80px;
+    flex-direction: column;
+    gap: 50px;
+  }
+  .skill-main{
+    gap: 70px;
+  }
+  .skill-main-top{
+    margin-top: 100px;
+    margin-bottom: 100px;
+  }
+  .skill-main-bottom .skill-main-bottom-frontend{
+    width: 100%;
+  }
+  .skill-main-bottom .skill-main-bottom-backend{
+    width: 100%;
+  }
+  .skill-main-bottom .skill-main-bottom-tools{
+    width: 100%;
+  }
+  .skill-main-bottom-backend div:nth-child(2){
+    margin-right: 50px;
+  }
+}
