@@ -28,7 +28,7 @@ const Projects = () => {
       <div className="projects-main-card3-image">
               <div className='projects-main-card3-image-link1'><FaLink />
               </div>
-              <div className='projects-main-card3-image-link2'><a href=""><SiGithub /></a></div>
+              <div className='projects-main-card3-image-link2'><a href="https://github.com/sandeepvaidya37/new-portfolio"><SiGithub /></a></div>
             </div>
             <div className="projects-main-card3-title"><h3>My Portfolio Web-app:</h3></div>
             <div className="projects-main-card3-description"><p><strong>My Portfolio Website:</strong> A fully custom-designed portfolio built using React. This website showcases my skills, projects, and experience in web development. It includes smooth navigation, responsive design, and dynamic content sections that highlight my work, skills, and ways to contact me. The portfolio is built to provide a professional and engaging user experience, reflecting my expertise as a MERN stack developer.</p></div>
