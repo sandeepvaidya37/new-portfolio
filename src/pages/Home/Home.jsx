@@ -23,7 +23,7 @@ const Home = () => {
           </p>
         </div>
         <div>
-          <a href="/Mern87.pdf" download="Mern87.pdf">Download CV</a>
+          <a href="/MERNnew.pdf" download="MERNnew.pdf">Download CV</a>
           <a href="https://github.com/sandeepvaidya37">GitHub</a>
         </div>
       </div>
