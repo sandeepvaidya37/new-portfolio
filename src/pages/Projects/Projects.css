@@ -5,6 +5,8 @@
   justify-content: center;
   align-items: center;
   gap: 15px;
+  overflow-x: hidden;
+  overflow-y: scroll;
 }
 .projects-main-card1 {
   gap: 10px;
